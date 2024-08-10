@@ -1,0 +1,38 @@
+/* 개별 */
+nav ol li a.active {
+  color: var(--ColorMain);
+}
+.cta-btn {
+  color: var(--ColorDeep);
+}
+.chatroom .chat-list li.chat-bot {
+  background-color: #fbe8a6;
+}
+.cont-chat .inp-chat button {
+  color: var(--ColorDeep);
+}
+.description a {
+  color: var(--ColorMain);
+}
+.editor .btn-contain #btn-run {
+  color: var(--ColorDeep);
+}
+
+.menu-list .menu-item a,
+.menu-list .menu-item button {
+  color: var(--ColorMain);
+}
+/* class */
+.question {
+  color: black;
+  font-size: 12px;
+}
+
+.btn-exec {
+  color: var(--ColorDeep);
+  font-weight: bold;
+  border-radius: 3px;
+}
+#kg-carousel #kg-next {
+  transform: rotate(180deg);
+}
